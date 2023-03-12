@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently pursuing a master's degree at [the Department of Geomatics and Remote Sensing](https://gsee.swjtu.edu.cn/) at SWJTU ([Southwest Jiaotong University](https://www.swjtu.edu.cn/)), majoring in Photogrammetry and Remote Sensing as well as Computer Vision. Now, my research mainly focuses on point cloud registration and intelligent processing of point clouds.
 
-- :mortar_board:I have obtained a Bachelor's degree in Surveying Engineering from [the College of Geodesy and Geomatics](https://gc.sdust.edu.cn/) at SDUST ([Shandong University of Science and Technology](http://www.sdust.edu.cn/)).
+- :mortar_board: I have obtained a Bachelor's degree in Surveying Engineering from [the College of Geodesy and Geomatics](https://gc.sdust.edu.cn/) at SDUST ([Shandong University of Science and Technology](http://www.sdust.edu.cn/)).
 
 - :e-mail: Reach me by houyongkuo@gmail.com or houyongkuo@my.swjtu.edu.cn
 
