@@ -2,9 +2,9 @@
 
 ## :school: Work and education
 
-- 🌱 I’m currently pursuing a master's degree in Geomatics Engineering at [the Department of Geomatics and Remote Sensing](https://gsee.swjtu.edu.cn/) at SWJTU ([Southwest Jiaotong University](https://www.swjtu.edu.cn/)), majoring in Photogrammetry and affiliated team is [VGE](https://vrlab.org.cn/). Now, my research mainly focuses on point cloud registration and intelligent processing of point clouds. 
+- 🌱 I have joined [Aerospace Information Research Institute, Chinese Academy of Sciences (Suzhou)](http://www.aircas.cas.cn/) to work on geographic information knowledge mapping and natural language processing.
 
-- :mortar_board: I have obtained a Bachelor's degree in Geomatics Engineering from [the College of Geodesy and Geomatics](https://gc.sdust.edu.cn/) at SDUST ([Shandong University of Science and Technology](http://www.sdust.edu.cn/)).
+- :mortar_board: I have obtained a Bachelor's degree and Master's degree in Geomatics Engineering from [the College of Geodesy and Geomatics](https://gc.sdust.edu.cn/) at SDUST ([Shandong University of Science and Technology](http://www.sdust.edu.cn/)) and [the Department of Geomatics and Remote Sensing](https://gsee.swjtu.edu.cn/) at SWJTU ([Southwest Jiaotong University](https://www.swjtu.edu.cn/)), majoring in Photogrammetry and affiliated team is [VGE](https://vrlab.org.cn/), respectively.
 
 - :e-mail: Reach me by houyongkuo@gmail.com or houyongkuo@my.swjtu.edu.cn
 
