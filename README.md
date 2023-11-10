@@ -2,7 +2,7 @@
 
 ## :school: Work and education
 
-- 🌱 I have joined [Aerospace Information Research Institute, Chinese Academy of Sciences (Suzhou)](http://www.aircas.cas.cn/) to work on geographic information knowledge mapping and natural language processing.
+- 🌱 I have joined [Aerospace Information Research Institute, Chinese Academy of Sciences (Suzhou)](http://www.aircas.cas.cn/) to work on GEO-AI and GEO-LLM.
 
 - :mortar_board: I have obtained a Bachelor's degree and Master's degree in Geomatics Engineering from [the College of Geodesy and Geomatics](https://gc.sdust.edu.cn/) at SDUST ([Shandong University of Science and Technology](http://www.sdust.edu.cn/)) and [the Department of Geomatics and Remote Sensing](https://gsee.swjtu.edu.cn/) at SWJTU ([Southwest Jiaotong University](https://www.swjtu.edu.cn/)), majoring in Photogrammetry and affiliated team is [VGE](https://vrlab.org.cn/), respectively.
 
