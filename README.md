@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yongkuo Hou！</h1>
 
 ## :school: Work and education
-- 🏫：Doctoral candidate at Tongji University now.
+- 🏫：Doctoral candidate at [the College of Surving and GEO-informatics](https://celiang.tongji.edu.cn/sy.htm), [Tongji University](https://www.tongji.edu.cn/), with research interests in remote sensing and visual positioning.
 - 👨🏻‍💻：From 2023 to 2024, I had the opportunity to work at [Aerospace Information Research Institute, Chinese Academy of Sciences (Suzhou)](http://www.aircas.cas.cn/), where I focused on research in GEO-AI and GEO-LLM.
 - :mortar_board: I have obtained a Bachelor's degree and Master's degree in Geomatics Engineering from [the College of Geodesy and Geomatics](https://gc.sdust.edu.cn/) at SDUST ([Shandong University of Science and Technology](http://www.sdust.edu.cn/)) and [the Department of Geomatics and Remote Sensing](https://gsee.swjtu.edu.cn/) at SWJTU ([Southwest Jiaotong University](https://www.swjtu.edu.cn/)), majoring in Photogrammetry and affiliated team is [VGE](https://vrlab.org.cn/), respectively.
 
